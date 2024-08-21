@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c9f897e.css",
+    "main.js": "/static/js/main.41445ee6.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/english.jpg": "/static/media/english.95b23a909aeb197fb291.jpg",
+    "static/media/playlist1.jpg": "/static/media/playlist1.662a77b23488ea6f595d.jpg",
+    "static/media/tamil.jpg": "/static/media/tamil.727525f514eb04983cbb.jpg",
+    "static/media/hindi.jpg": "/static/media/hindi.4a0eba2730f83005f17d.jpg",
+    "static/media/cat_rock.png": "/static/media/cat_rock.697b3544df95ee92be45.png",
+    "static/media/k-pop.jpg": "/static/media/k-pop.a07e8fe4756dcc1cd484.jpg",
+    "static/media/cat_hiphop.png": "/static/media/cat_hiphop.be63df4726c48e10d5e2.png",
+    "static/media/cat_romance.png": "/static/media/cat_romance.e2a2fe8e3a550d35905a.png",
+    "static/media/trending.jpg": "/static/media/trending.0ea378c7f91062bf9263.jpg",
+    "static/media/cat_pop.png": "/static/media/cat_pop.42e06342ec607e1387a8.png",
+    "static/media/chill.jpg": "/static/media/chill.8efe61408fb18b8398f1.jpg",
+    "static/media/cat_chill.png": "/static/media/cat_chill.b16152f1d3be33d630ca.png",
+    "static/media/cat_podcast.png": "/static/media/cat_podcast.a7013f8e1101544af15e.png",
+    "index.html": "/index.html",
+    "main.5c9f897e.css.map": "/static/css/main.5c9f897e.css.map",
+    "main.41445ee6.js.map": "/static/js/main.41445ee6.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c9f897e.css",
+    "static/js/main.41445ee6.js"
+  ]
+}
