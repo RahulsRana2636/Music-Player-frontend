@@ -117,7 +117,7 @@ useEffect(()=>{
     <nav className='nav'>
         <div className="header">
             <img src={Icon} alt="LOGO" />
-            <h1>MetaTunes</h1>
+            <h1>Music Player</h1>
             {menu===false &&(
             <MenuIcon className="icon" onClick={(e)=>{
                e.preventDefault();
